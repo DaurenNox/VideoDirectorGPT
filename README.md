@@ -1,7 +1,7 @@
 
 # VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning
 
-Official implementatino of **VideoDirectorGPT**, a novel framework for consistent multi-scene video generation that uses the knowledge of LLMs for video content planning and grounded video generation.
+Official implementation of **VideoDirectorGPT**, a novel framework for consistent multi-scene video generation that uses the knowledge of LLMs for video content planning and grounded video generation.
 
 
 [![arXiv](https://img.shields.io/badge/Arxiv-VideoDirectorGPT-orange)](https://arxiv.org/abs/2309.15091) [![Pytorch](https://img.shields.io/badge/ProjectPage-VideoDirectorGPT-green)](https://videodirectorgpt.github.io/)
